@@ -12,7 +12,7 @@
 
 Estas guías son propiedad intelectual 2013 de Pro Publica, Inc. y están bajo una licencia [Creative Commons Atribución-No Comercial 3.0](http://creativecommons.org/licenses/by-nc/3.0/deed.es). Eres libre de compartir y remezclar las guías y sus contenidos, pero no puedes utilizarlas con fines comerciales sin autorización de ProPublica Inc. 
 
-## Comentar y proponerd 
+## Comentar y Proponer 
 
 Puedes reportar problemas y temas relevantes usando [Github Issues](https://github.com/propublica/guides/issues).
 
