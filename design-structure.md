@@ -2,15 +2,12 @@
 
 _Por Scott Klein, ProPublica_ _. Traducido por Miguel Paz, Fundación PoderoMedia_
 
-En el mejor de los casos, ayudan al lector a encontrar sus historias personales en un gran conjunto de datos y 
-comprender la historia que haya reportado con el ejemplo de sí mismos y de su propia comunidad. 
-Una aplicación de buenas noticias permite que un lector a comprender los nuevos conceptos relacionándolos 
-con sus propias experiencias.
-Las Aplicaciones de Noticias cuentan historias periodísticas. Tienen mucho de la estructura regular de cualquier historia o noticia.
-Tienen el equivalente gráfico a la bajada o "lead" y el párrafo introductorio principal de una noticia, también llamado nut graf.
-En el mejor de los casos, ayudan al lector a encontrar historias que se relacionan directamente con su vida, en un gran conjunto de datos y 
-a comprender la historia que hayas reportado, en base a ejemplos que afectan al lector y su comunidad. Una gran aplicación de noticias permite
-al lector entender conceptos nuevos al relacionarlos con sus propias experiencias.
+Las Aplicaciones de Noticias cuentan historias periodísticas. Tienen mucho de la estructura regular de 
+cualquier historia o noticia. Tienen el equivalente gráfico a la bajada o "lead" y el párrafo introductorio 
+principal de una noticia, también llamado nut graf. En el mejor de los casos, ayudan al lector a encontrar historias 
+que se relacionan directamente con su vida, en un gran conjunto de datos y a comprender la historia que hayas reportado, 
+en base a ejemplos que afectan al lector y su comunidad. Una gran aplicación de noticias permite al lector entender 
+conceptos nuevos al relacionarlos con sus propias experiencias.
 
 A continuación proveemos algunos lineamientos para ayudarte a diseñar una gran aplicación de noticias:
 
