@@ -11,7 +11,7 @@ conceptos nuevos al relacionarlos con sus propias experiencias.
 
 A continuación proveemos algunos lineamientos para ayudarte a diseñar una gran aplicación de noticias:
 
-## Far vs. Near
+## Lejos vs. Cerca
 
 In order to help a reader understand complex data, help them follow it
 from the general to the specific. We think of things in terms of a "far
@@ -19,6 +19,22 @@ view" and a "near view." Your far view is typically the landing page of
 your app, and is focused on broad meaning and context. This page should
 have the national picture of the data, with ranked examples, e.g., an
 ordered list of states, counties, companies, etc.
+
+Con el fin de ayudar al lector a entender datos complejos e ir de lo general a lo particular, pensamos 
+las cosas en términos de lejanía y cercanía. La lejanía suele equivaler a la página de aterrizaje
+de la aplicación o "landing page", que busca ofrecer al lector el significado y contexto general
+de lo que le queremos contar o explicar. Esta página debe presentar el panorama amplio de los datos 
+(por ejemplo los datos de todo el país), incluir por ejemplo: datos clasificados en rankings, una lista 
+ordenada de los Estados, Condados, Empresas, etc. (*Nota del Autor: En países no federados estas listas podrían incluir Intendencias, Gobernaciones, Municipios, etc.) 
+
+La vista de cerca es la página con el menor nivel de abstracción, donde el lector está mirando a él propia escuela, su ciudad, etc La vista cerca transmite asociación y la identidad. Es el medio a través del cual los lectores comprenderán la totalidad relacionándolo con el ejemplo que entienden mejor.
+
+Naturalmente, muchas de las aplicaciones tienen niveles de abstracción entre la cerca y de lejos el. Asegúrese de usar la coherencia visual y hacer transiciones obvio que el lector pueda entender los "niveles de zoom" ya que ir por ellas.
+
+Whenver posible, todos los números en su aplicación debe incluir una comparación con otro, ya sea para un ejemplo similar (por ejemplo, mi país contra el país vecino) a los grandes conglomerados (mi país frente a la media estatal) o al todo mi (condado frente a la media nacional).
+
+Hacer visible correlaciones. Si hay una correlación entre dos variables, mostrarles juntos.
+
 
 Your near view is the page at lowest level of abstraction, where your
 reader is looking at he own school, his own town, etc. The near view
