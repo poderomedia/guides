@@ -1,9 +1,8 @@
 # Introducción: El Diseño y Estructura de una Aplicación de Noticias
 
 _por Scott Klein, ProPublica_
-_traducido por Miguel Paz, Fundación PoderoMedia_
+_. Traducido por Miguel Paz, Fundación PoderoMedia_
 
-ç 
 En el mejor de los casos, ayudan al lector a encontrar sus historias personales en un gran conjunto de datos y 
 comprender la historia que haya reportado con el ejemplo de sí mismos y de su propia comunidad. 
 Una aplicación de buenas noticias permite que un lector a comprender los nuevos conceptos relacionándolos 
