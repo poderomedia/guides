@@ -13,49 +13,31 @@ A continuación proveemos algunos lineamientos para ayudarte a diseñar una gran
 
 ## Lejos vs. Cerca
 
-In order to help a reader understand complex data, help them follow it
-from the general to the specific. We think of things in terms of a "far
-view" and a "near view." Your far view is typically the landing page of
-your app, and is focused on broad meaning and context. This page should
-have the national picture of the data, with ranked examples, e.g., an
-ordered list of states, counties, companies, etc.
-
 Con el fin de ayudar al lector a entender datos complejos e ir de lo general a lo particular, pensamos 
 las cosas en términos de lejanía y cercanía. La lejanía suele equivaler a la página de aterrizaje
 de la aplicación o "landing page", que busca ofrecer al lector el significado y contexto general
 de lo que le queremos contar o explicar. Esta página debe presentar el panorama amplio de los datos 
-(por ejemplo los datos de todo el país), incluir por ejemplo: datos clasificados en rankings, una lista 
-ordenada de los Estados, Condados, Empresas, etc. (*Nota del Autor: En países no federados estas listas podrían incluir Intendencias, Gobernaciones, Municipios, etc.) 
+(por ejemplo los datos de todo el país), incluir cosas como: datos clasificados en rankings, una lista 
+ordenada de los Estados, Condados, Empresas, etc.* 
 
-La vista de cerca es la página con el menor nivel de abstracción, donde el lector está mirando a él propia escuela, su ciudad, etc La vista cerca transmite asociación y la identidad. Es el medio a través del cual los lectores comprenderán la totalidad relacionándolo con el ejemplo que entienden mejor.
+La vista de cercanía o de presentación de información particular de datos, equivale a la página
+con el menor nivel de abstracción posible, donde el lector está buscando información de su propia escuela, su ciudad, etc.
+Esta mirada de cercanía transmite al lector vínculo, asociación e identidad. Es el medio a través del cual los lectores 
+comprenderán la totalidad de los datos relacionándolos con el o los ejemplos que entienden mejor.
 
-Naturalmente, muchas de las aplicaciones tienen niveles de abstracción entre la cerca y de lejos el. Asegúrese de usar la coherencia visual y hacer transiciones obvio que el lector pueda entender los "niveles de zoom" ya que ir por ellas.
+Naturalmente, muchas de las aplicaciones de noticias tienen niveles de abstracción entre lo cercano y lo lejano, 
+lo general y lo particular. Asegúrate de lograr consistencia visual y hacer que las transiciones sean obvias
+para que el lector pueda entender las distintas capas de información a medida que haga zoom o enfoque 
+sobre ellas.
 
-Whenver posible, todos los números en su aplicación debe incluir una comparación con otro, ya sea para un ejemplo similar (por ejemplo, mi país contra el país vecino) a los grandes conglomerados (mi país frente a la media estatal) o al todo mi (condado frente a la media nacional).
+Cuando sea posible, todos los números en tu aplicación debieran incluir una comparación con otros números, 
+ya sea con un ejemplo similar (por ejemplo, mi condado versus el condado vecino**) o bien con un ejemplo 
+comparativo más extremo (mi condado versus el promedio del Estado) o un ejemplo mucho más amplio 
+(mi condado frente a la media nacional).
 
-Hacer visible correlaciones. Si hay una correlación entre dos variables, mostrarles juntos.
+Haz que las correlaciones sean visibles. Si hay una correlación entre dos variables, muéstralas juntas.
 
-
-Your near view is the page at lowest level of abstraction, where your
-reader is looking at he own school, his own town, etc. The near view
-conveys association and identity. It is the means through which readers
-will understand the whole by relating it to the example they understand
-best.
-
-Naturally, many apps have levels of abstraction in between the far and
-the near. Make sure to use visual consistency and make transitions
-obvious so the reader can understand the "zoom levels" as they go down
-them.
-
-Whenver possible, every number in your app should include a comparison
-to another, either to a similar example (e.g., my county vs. the
-neighboring one) to larger clusters (my county vs. the state average) or
-to the whole (my county vs. the national average).
-
-Make correlations visible. If there's a correlation between two
-variables, show them together.
-
-## Where to Start
+## Dónde Empezar
 
 When you begin a news app, ask yourself the two classic product
 management questions: "Who are our users and what do they want" and then
@@ -81,3 +63,9 @@ Being classifying journalistic outputs. Writing is not intrinsically
 better than graphics nor is one more noble or genuinely journalistic
 than the other. Informing your readers accurately and fairly matters
 above all.
+
+*Nota del Traductor: En países no federados estas listas podrían incluir 
+Intendencias, Gobernaciones, Municipios, etc.
+**Nota del Traductor: En países no federados o bien países con otro tipo de estructura este tipo de comparaciones 
+podrían ser, por ejemplo, entre mi municipio y el vecino, mi alcaldía mayor y la vecina, mi intendencia y 
+la vecina, etc. 
