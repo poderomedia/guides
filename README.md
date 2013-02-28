@@ -1,25 +1,25 @@
-# ProPublica's Nerd Guides
+# Guía Nerd de ProPublica
 
-## Table of Contents
+## Tabla de Contenidos
 
-1. [Intro: The Design and Structure of a News Application](design-structure.md)
-2. [News Apps Style Guide](news-apps.md)
-3. [Coding Manifesto](coding-manifesto.md)
-4. [Social Tagging Guide](social-tags.html)
-5. [Data Bulletproofing Guide](data-bulletproofing.md)
+1. [Introducción: El Diseño y Estructura de una Aplicación de Noticias](design-structure.md)
+2. [Guía de Estilo de Aplicaciones de Noticias](news-apps.md)
+3. [Manifiesto de Código](coding-manifesto.md)
+4. [Guía de Etiquetado Social](social-tags.html)
+5. [Guía de Blindaje de Datos a Prueba de Balas](data-bulletproofing.md)
 
-## License
+## Licencia
 
-These guides are copyright 2013 Pro Publica, Inc. and are licensed under a [Creative Commons BY-NC 3.0](http://creativecommons.org/licenses/by-nc/3.0/) license. You are free to share and to remix them, though not to use them commercially without permission.
+Estas guías son propiedad intelectual 2013 de Pro Publica, Inc. y están bajo una licencia [Creative Commons Atribución-No Comercial 3.0](http://creativecommons.org/licenses/by-nc/3.0/deed.es). Eres libre de compartir y remezclar las guías y sus contenidos, pero no puedes utilizarlas con fines comerciales sin autorización de ProPublica Inc. 
 
-## Discuss
+## Comentar y proponerd 
 
-You can submit issues using [Github Issues](https://github.com/propublica/guides/issues).
+Puedes reportar problemas y temas relevantes usando [Github Issues](https://github.com/propublica/guides/issues).
 
-## Contributing
+## Contribuir
 
-1. Fork it
-2. Create your branch (`git checkout -b my-guide`)
-3. Commit your changes (`git commit -am "Proposed Change"`)
-4. Push your branch (`git push origin my-guide`)
-5. Send a pull request
+1. Puedes hacer Fork
+2. Crear tu Branch o Rama (`git checkout -b my-guide`)
+3. Confirmar Cambios haciendo Commit (`git commit -am "Proposed Change"`)
+4. Empujar tu Branch o Rama: Push your branch (`git push origin my-guide`)
+5. Solicitar Extracción: Send a pull request
