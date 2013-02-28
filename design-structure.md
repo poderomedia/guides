@@ -1,6 +1,6 @@
 # Introducción: El Diseño y Estructura de una Aplicación de Noticias
 
-_Por Scott Klein, ProPublica_ _. Traducido por Miguel Paz, Fundación PoderoMedia_
+_Por Scott Klein, ProPublica_. Traducido por Miguel Paz, Fundación PoderoMedia_
 
 Las Aplicaciones de Noticias cuentan historias periodísticas. Tienen mucho de la estructura regular de 
 cualquier historia o noticia. Tienen el equivalente gráfico a la bajada o "lead" y el párrafo introductorio 
