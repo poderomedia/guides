@@ -1,5 +1,7 @@
 # Guía Nerd de ProPublica
 
+_Por Scott Klein, ProPublica_. Traducido por Miguel Paz, Fundación PoderoMedia_
+
 ## Tabla de Contenidos
 
 1. [Introducción: El Diseño y Estructura de una Aplicación de Noticias](design-structure.md)
