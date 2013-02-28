@@ -6,7 +6,7 @@
 2. [Guía de Estilo de Aplicaciones de Noticias](news-apps.md)
 3. [Manifiesto de Código](coding-manifesto.md)
 4. [Guía de Etiquetado Social](social-tags.html)
-5. [Guía de Blindaje de Datos a Prueba de Balas](data-bulletproofing.md)
+5. [Guía de Cómo Hacer que tus Datos sean a Prueba de Balas](data-bulletproofing.md)
 
 ## Licencia
 
