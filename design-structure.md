@@ -37,32 +37,29 @@ comparativo más extremo (mi condado versus el promedio del Estado) o un ejemplo
 
 Haz que las correlaciones sean visibles. Si hay una correlación entre dos variables, muéstralas juntas.
 
-## Dónde Empezar
+## Por Dónde Empezar
 
-When you begin a news app, ask yourself the two classic product
-management questions: "Who are our users and what do they want" and then
-ask two more: "What story do we want to tell them? What do we want them
-to do with the information?"
+Cuando comienzas a desarrollar una aplicación de noticias, házte las dos preguntas clásicas de la gestión de productos: 
+"¿Quiénes son nuestros usuarios y qué es lo que quieren" y luego pregúntate dos cosas más: 
+"¿Qué historia queremos contarles?" y "¿Qué es lo que queremos que ellos hagan con la información?"
 
-The answers to these questions imply visual-design decisions and
-user-pathway decisions. Allow free-form exploration but use element
-placement and size to make the pathway that tells your story the most
-prominent and easiest one. Remove extraneous elements that confuse the
-reader or send them on wild goose chases.
+Las respuestas a estas preguntas implican decisiones de diseño visual y decisiones del camino que tomarán los usuarios al usar la aplicación.
+Permite la exploración libre de la aplicación, pero usa la colocación de elementos y tamaños para hacer que el camino 
+que cuenta tu historia sea el más prominente y más fácil de encontrar. Elimina los elementos extraños que confunden al lector 
+o los envían a perderse en el bosque.
 
-If you've created an especially complex page or one that takes
-complicated user input, help readers focus on the task by removing all
-of the page chrome other than the task elements. We call this
-"casino-driven design."
+Si has creado una página especialmente compleja o una que requiere mucha participación del usuario, ayuda a los lectores
+a centrarse en la tarea. Elimina todos los elementos distractores de la página y deja sólo los elementos centrales. 
+A esto le llamamos "diseño impulsado por casino" ("casino-driven design").
 
-## Nobility
 
-Finally, always remember that you're a journalist, bound by journalistic
-ethics and buoyed by journalistic ideals. There is no Great Chain of
-Being classifying journalistic outputs. Writing is not intrinsically
-better than graphics nor is one more noble or genuinely journalistic
-than the other. Informing your readers accurately and fairly matters
-above all.
+## Nobleza
+
+Finalmente, siempre recuerda que eres un periodista, obligado por la ética periodística
+y alentado por ideales periodísticos. No hay una "Gran Cadena del Ser", clasificando los resultados de 
+los productos periodísticos. La escritura no es intrínsecamente mejor que los gráficos ni es uno más noble 
+o genuinamente periodístico que el otro. Informar a tus lectores de manera precisa y justa es lo que 
+importa por encima de todo.
 
 *Nota del Traductor: En países no federados estas listas podrían incluir 
 Intendencias, Gobernaciones, Municipios, etc.
